@@ -19,7 +19,7 @@ gem 'cancancan', '~> 1.7'
 gem 'protected_attributes'
 gem 'galetahub-enum_field', require: 'enum_field'
 gem 'ransack'
-gem 'simple_slug', github: 'leschenko/simple_slug', ref: 'b9b17a3'
+gem 'simple_slug', github: 'leschenko/simple_slug'
 gem 'awesome_nested_set'
 gem 'globalize', '~> 4.0.0'
 
